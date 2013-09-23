@@ -1,0 +1,10 @@
+[
+    {
+        "id": "001",
+        "name": "Java Design Patterns",
+        "averageRating": 3.4,
+        "credits": 2,
+        "description": "Java Design Patterns Description",
+        "video": "http://www.youtube.com"
+    }
+]
