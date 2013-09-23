@@ -28,3 +28,4 @@ Sass changes will be compiled into css files.
 
 5. Install Grunt
 run 'sudo npm install grunt'
+run grunt sass to compile css
